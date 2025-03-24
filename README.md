@@ -8,7 +8,7 @@
 Overview of Framework
 </p>
 
-## # Implemented Parts
+## # Implemented Components
 
 - nn
   - Model (Base Class for Nerual Networks, like nn.Module in torch)
