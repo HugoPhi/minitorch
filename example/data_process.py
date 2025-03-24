@@ -5,8 +5,8 @@ import numpy as np
 import pandas as pd
 import kagglehub
 
-# path = kagglehub.dataset_download("drsaeedmohsen/ucihar-dataset") + '/UCI-HAR Dataset'
-path = '/root/.cache/kagglehub/datasets/drsaeedmohsen/ucihar-dataset/versions/1' + '/UCI-HAR Dataset'
+path = kagglehub.dataset_download("drsaeedmohsen/ucihar-dataset") + '/UCI-HAR Dataset'
+# path = '/root/.cache/kagglehub/datasets/drsaeedmohsen/ucihar-dataset/versions/1' + '/UCI-HAR Dataset'
 print("Path to dataset files:", path)
 
 

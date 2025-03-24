@@ -18,7 +18,7 @@ excr = NonValidExecuter(
         'conv1dx3': conv1dx3(lr=0.001, epoches=100, batch_size=128),
     },
     metric_list=['accuracy', 'macro_f1', 'micro_f1', 'avg_recall'],
-    log=True,
+    log=False,
     log_dir='./log/',
 )
 

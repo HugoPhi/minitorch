@@ -2,11 +2,11 @@ import jax.numpy as jnp
 from jax import random
 import jax
 
-from plugins.minitorch.nn import Conv, Rnn, Dense
-from plugins.minitorch import Initer
-from plugins.minitorch.optimizer import Adam
-from plugins.minitorch.loss import CrossEntropyLoss
-from plugins.minitorch.utils import softmax
+from minitorch.nn import Conv, Rnn, Dense
+from minitorch import Initer
+from minitorch.optimizer import Adam
+from minitorch.loss import CrossEntropyLoss
+from minitorch.utils import softmax
 
 from plugins.lrkit import ClfTrait, timing
 
