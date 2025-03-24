@@ -1,7 +1,7 @@
-# Mini-torch
+# ✨ Mini-torch
 
 <p align="center">
-  <img src="./assets/notebook_docs/minitorch.svg" alt="Overview of framework", width="80%">
+  <img src="./assets/minitorch.svg" alt="Overview of framework", width="80%">
 </p>
 
 <p align="center">
