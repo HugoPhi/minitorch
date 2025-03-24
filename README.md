@@ -1,5 +1,7 @@
 # ✨ Mini-torch
 
+> <ins>💡: The Latest Framework test case is under: [`./example/`](./example/README.md).</ins>  
+
 <p align="center">
   <img src="./assets/minitorch.svg" alt="Overview of framework", width="80%">
 </p>
